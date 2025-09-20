@@ -7,6 +7,7 @@
 This repository hosts my professional Curriculum Vitae, built entirely using **HTML** . This is my first attempt at using GitHub, and a practice project to refresh my HTML skills. My details are true at the time of publishing on GitHub. This project was done as an exercise from roadmap.sh:
 
 **[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)**
+
 **[https://roadmap.sh/projects/single-page-cv/solutions?u=68ce546a1a0296edef8a4c03](https://roadmap.sh/projects/single-page-cv/solutions?u=68ce546a1a0296edef8a4c03)**
 
 ## How to View
